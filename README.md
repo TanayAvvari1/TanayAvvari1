@@ -1,4 +1,4 @@
-### Hello. My name is Tanay Avvari. I am currently studying Aerospace Engineering and Iowa State University. I was born and raised in Kansas. I am interest in learning more about about aerospace as well as utilizing programming languages, such as Python and C, and 3D modeling in Solidworks. Currently I am working on getting a Solidworks certification while going through my college classes. Two of my favorite hobbies are playing video games or cooking. 
+### Hello. My name is Tanay Avvari. I am currently studying Aerospace Engineering and Iowa State University. I was born and raised in Kansas. I am interest in learning more about about aerospace as well as utilizing programming languages, such as Python and C, and 3D modeling in Solidworks. Currently I am working on getting a Solidworks certification while going through my college classes. Two hobbies that I enjoy are playing video games or cooking. 
 
 <!--
 **TanayAvvari1/TanayAvvari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
